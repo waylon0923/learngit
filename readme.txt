@@ -3,5 +3,5 @@ Git is free software.
 Hello Git!
 Git has a mutable index called stage.
 Git tracks changes of files.
-Creat a new branch is quick.
+Creat a new branch is quick and simple.
 Use branch to coding is good!
